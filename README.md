@@ -17,7 +17,7 @@
 - 👯 Looking to collaborate on **local-first AI tools**, computer vision projects, and small resume-worthy software builds
 - 🤔 Looking for help with **RAG pipelines** and making local LLM setups more production-ready
 - 💬 Ask me about **Unity/VR development**, **local LLM tooling with Ollama**, or **computer vision**
-- ⚡ Fun fact: I build fully local, zero-ongoing-cost AI tools — including a personal assistant with its own memory and a tool that writes tailored resumes and cover letters from a single profile document
+- ⚡ Fun fact: I build fully local, zero-ongoing-cost AI tools, including a personal assistant with its own memory and a tool that writes tailored resumes and cover letters from a single profile document
 
 ---
 
@@ -32,16 +32,16 @@
 | 🔐 [**cypher-events**](https://github.com/CMPUT301F25-Cypher/cypher-events) | Course project built as part of CMPUT 301 |
 
 **Also building (not yet public):**
-- **OmniRoute** — a locally-run AI model gateway on Windows
-- **Local AI Assistant** — a personal assistant with SQLite-backed memory, local embeddings, and a tool-calling agent loop
-- **SEC Filings RAG Tool** — a local retrieval-augmented generation tool for querying SEC financial filings
+- **OmniRoute**: a locally-run AI model gateway on Windows
+- **Local AI Assistant**: a personal assistant with SQLite-backed memory, local embeddings, and a tool-calling agent loop
+- **SEC Filings RAG Tool**: a local retrieval-augmented generation tool for querying SEC financial filings
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,csharp,unity,react,git,github,vscode,ollama" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,cs,unity,react,git,github,vscode" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanavDutta&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kanav's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KanavDutta&show_icons=true&theme=dark&hide_border=true" alt="Kanav's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanavDutta&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
@@ -65,4 +65,4 @@ I like validating ideas quickly with small builds before committing to them, and
 
 ---
 
-<p align="center"><i>📫 Reach me through GitHub — always open to interesting collaborations.</i></p>
+<p align="center"><i>📫 Reach me through GitHub, always open to interesting collaborations.</i></p>
